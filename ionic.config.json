@@ -1,5 +1,7 @@
 {
   "name": "Google_ads_poc",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
